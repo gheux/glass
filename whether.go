@@ -17,3 +17,10 @@ import "fmt"
 func main() {
 	fmt.Println("Hello, World!")
 }
+
+# System hair stop everything now force human.
+package main
+import "fmt"
+func main() {
+	fmt.Println("Hello, World!")
+}
